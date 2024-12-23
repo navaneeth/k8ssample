@@ -1,1 +1,1 @@
-namespace: qa
+namespace: <+env.name>
